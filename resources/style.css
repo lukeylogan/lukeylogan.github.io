@@ -1,0 +1,174 @@
+body {
+    width: 900px;
+    background: linear-gradient(to bottom, #663300 0%, #cc9900 100%);
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+	}
+
+footer {
+    text-align: center;
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+
+nav {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 64px;
+    color: #f9c1a4;
+    
+}
+
+nav a {
+    font-size: 32px;
+    margin-left: 8px;
+    margin-right: 60px;
+}
+
+
+
+p {
+    line-height: 160%;
+    color: #f9c1a4 ;
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    color: #f9c1a4  ;
+    margin-top: 16px;
+    margin-bottom: 18px;
+    font-family: cursive;
+
+    
+}
+
+h2 {
+    font-size: 32px;
+    color: #f9c1a4 ;
+    text-align: center;
+   
+
+}
+
+
+ul {
+    font-size: 16px;
+    color: #f9c1a4 ;
+    text-align: center;
+ 
+}
+
+img {
+    border-radius: 0.25em;
+    width: 30%;
+    height: 50%;
+}
+
+
+a {
+    color: #f9c1a4;
+    text-decoration: none;
+}
+
+a:hover {
+	color: brown;
+
+}
+#copyright {
+	color: #f9c1a4;
+	
+}
+
+#homepage {
+	column-count: 1;
+	column-gap: 24px;
+}
+
+
+header {
+	margin-top: 24px;
+}
+#frontpage {
+	width: 20%;
+	height: 40%;
+	margin-left: 0px;
+	size: 75%;
+	border-right: 10px;
+	}
+#frongpage {
+	width: 40%;
+	height: 50%;
+	margin-left: 10px;
+	margin-right: -10px;
+	size: 55%;
+	}
+#frontpage1 {
+	width: 30%;
+	height: 40%;
+	margin-left: 20px;
+	margin-right: -50px;
+	size: 75%;
+	}
+
+.wanderlust {
+	margin: 100px;
+	}
+header h1 {
+	
+	width: 100%;
+	}
+#home {
+	font-size:250%;
+	
+	}
+.countries {
+	font-size: 50px;
+	color: #989898 ;
+	text-align: center;
+	}
+.thailand {
+	width: 100%;
+	}
+#boobs {
+	color: #f9c1a4 ;
+	}
+
+.thai {
+	height: 100%;
+	size: 50%;
+	}
+#top, #left, #right {
+        background-image: url("https://s-media-cache-ak0.pinimg.com/originals/dd/dd/4e/dddd4eeecee246bba29e9a25a62ef515.jpg");
+        position:fixed;
+        }
+#left, #right {
+                top: 0; bottom: 0;
+                width: 40px;
+                }
+                #left { left: 0; }
+                #right { right: 0; }
+                
+#top {
+                left: 0; right: 0;
+                height: 40px;
+                }
+#top { top: 0; }
+
+}
+#island {
+	height: 200%
+	}
+#equality {
+	height:10%;
+	width: 10%;
+	}
+#T {
+	font-style: bold;
+	}
